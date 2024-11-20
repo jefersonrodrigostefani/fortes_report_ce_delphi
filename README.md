@@ -32,7 +32,7 @@ Será aberta a janela com os paths que o Delphi utiliza.
 
 <img src="prints/print004.png">
 
-Na janela acima, vamos definir a localização dos fontes do projeto ACBr. Clique no botão que fica em frente ao campo **Greyed items denote invalid path.** 
+Na janela acima, vamos definir a localização dos fontes do projeto. Clique no botão que fica em frente ao campo **Greyed items denote invalid path.** 
 Será aberta uma janela para você informar o local que deseja adicionar para essa lista de path. Navegue até o local onde você fez o download do projeto e 
 adicione os diretórios abaixo:
 
